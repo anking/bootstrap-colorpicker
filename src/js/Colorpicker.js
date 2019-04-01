@@ -2,7 +2,7 @@
 
 import Extension from './Extension';
 import defaults from './options';
-import coreExtensions from 'extensions';
+import coreExtensions from './extensions/index.js';
 import $ from 'jquery';
 import SliderHandler from './SliderHandler';
 import PopupHandler from './PopupHandler';

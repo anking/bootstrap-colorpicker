@@ -1,6 +1,6 @@
 'use strict';
 
-import Extension from 'Extension';
+import Extension from '../Extension';
 import $ from 'jquery';
 
 let defaults = {
